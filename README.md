@@ -1,5 +1,5 @@
 🏡 House Price Prediction – Internship Task 1 (Next24Tech)
-Project by: Akshaya N 
+Project by: Akshaya N
 
 📌 Project Overview
 This project aims to build a House Price Prediction System using advanced data analytics and machine learning algorithms.
